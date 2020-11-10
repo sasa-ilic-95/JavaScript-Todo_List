@@ -1,1 +1,1 @@
-Live Demo https://sasa-ilic-95.github.io/JavaScript-Simple_Todo/
+Live Demo https://sasa-ilic-95.github.io/JavaScript-Todo_List
